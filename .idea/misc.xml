@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1623045058467.xml" value="1.5061728395061729" />
+        <entry key="../../../../layout/compose-model-1623045367656.xml" value="1.5061728395061729" />
+        <entry key="../../../../layout/compose-model-1623921577917.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1623922473826.xml" value="0.3112331081081081" />
+        <entry key="../../../../layout/compose-model-1624010926366.xml" value="0.3112331081081081" />
+        <entry key="../../../../layout/compose-model-1624010974382.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1624011422769.xml" value="0.3112331081081081" />
+        <entry key="../../../../layout/compose-model-1624013616614.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1624172806874.xml" value="2.0" />
+        <entry key="../../../../layout/compose-model-1624184241213.xml" value="2.0" />
+        <entry key="../../../../layout/compose-model-1624262616688.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1624271465480.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1624297076062.xml" value="2.0" />
+        <entry key="app/src/main/res/drawable/ic_height.xml" value="0.36615384615384616" />
+        <entry key="app/src/main/res/drawable/ic_international_pok_mon_logo.xml" value="0.36615384615384616" />
+        <entry key="app/src/main/res/drawable/ic_weight.xml" value="0.36615384615384616" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
